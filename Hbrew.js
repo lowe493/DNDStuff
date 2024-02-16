@@ -2,6 +2,8 @@
 // @name         Homebrew additional features
 // @namespace    http://tampermonkey.net/
 // @version      1.0
+// @updateURL    https://github.com/lowe493/DNDStuff/raw/main/Hbrew.js
+// @downloadURL    https://github.com/lowe493/DNDStuff/raw/main/Hbrew.js
 // @description  Adds additional features to DND Beyond
 // @author       You
 // @match        https://www.dndbeyond.com/characters/*
